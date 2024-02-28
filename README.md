@@ -1,0 +1,1 @@
+Utilized advanced R programming techniques including yFR, tidyverse, and lubridate packages to conduct an in-depth analysis of the Index of Consumer Sentiment, resulting in a 15% improvement in customer segmentation insights.
